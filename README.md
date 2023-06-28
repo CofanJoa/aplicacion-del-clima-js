@@ -1,7 +1,7 @@
 
 # Tutorial de JavaScript: Aplicación de Clima
 
-Link para ver el resultado: [APLICACION DE CLIMA TRABAJO FINALIZADO](https://aplicacion-clima-javascript.netlify.app/)
+Link para ver el resultado: [APLICACION DE CLIMA TRABAJO FINALIZADO](https://aplicacion-del-clima-js.netlify.app/)
 
 Este tutorial te guiará a través del proceso de creación de una aplicación de clima utilizando JavaScript. La aplicación mostrará datos en tiempo real del clima de una ciudad específica utilizando la API de OpenWeatherMap.
 
